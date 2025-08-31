@@ -1,7 +1,7 @@
 # HyRice
 
 This repository contains my **Arch Linux + Hyprland** rice configuration.  
-It’s lightweight, clean, and built with a focus on aesthetics and usability.  
+It might be niche, but give it a try maybe you will like it 
 
 ***Enjoy!***
 
