@@ -21,4 +21,4 @@ Waybar > Minimal status bar
 
 Nerd-fonts > Patched fonts for icons
 
-Neofetch # For flexing online
+Neofetch > For flexing online
