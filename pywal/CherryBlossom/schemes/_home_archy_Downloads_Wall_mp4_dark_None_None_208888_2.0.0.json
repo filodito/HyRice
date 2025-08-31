@@ -1,0 +1,28 @@
+{
+    "checksum": "357b7dbd68f8ef60c0b99b2ccdddecde",
+    "wallpaper": "/home/archy/Downloads/Wall.mp4",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1021",
+        "foreground": "#c2c3c7",
+        "cursor": "#c2c3c7"
+    },
+    "colors": {
+        "color0": "#0e1021",
+        "color1": "#6C8F6B",
+        "color2": "#988F70",
+        "color3": "#CBBE69",
+        "color4": "#A5A090",
+        "color5": "#C6BC9A",
+        "color6": "#E7E69E",
+        "color7": "#c2c3c7",
+        "color8": "#5d5f72",
+        "color9": "#6C8F6B",
+        "color10": "#988F70",
+        "color11": "#CBBE69",
+        "color12": "#A5A090",
+        "color13": "#C6BC9A",
+        "color14": "#E7E69E",
+        "color15": "#c2c3c7"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/archy/github/wallpapers/CherryBlossom.png"
+let background = "#110b07"
+let foreground = "#c3c2c1"
+let cursor     = "#c3c2c1"
+
+" Colors
+let color0  = "#110b07"
+let color1  = "#B6A48A"
+let color2  = "#D4B495"
+let color3  = "#D8CDAD"
+let color4  = "#E0CFAC"
+let color5  = "#E7D5B6"
+let color6  = "#E9DDC3"
+let color7  = "#c3c2c1"
+let color8  = "#6a5f56"
+let color9  = "#B6A48A"
+let color10 = "#D4B495"
+let color11 = "#D8CDAD"
+let color12 = "#E0CFAC"
+let color13 = "#E7D5B6"
+let color14 = "#E9DDC3"
+let color15 = "#c3c2c1"
