@@ -1,0 +1,28 @@
+{
+    "checksum": "a39912eecb82239e3df0a92902cef7e9",
+    "wallpaper": "/home/archy/Downloads/Waytoclean.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#12181b",
+        "foreground": "#c3c5c6",
+        "cursor": "#c3c5c6"
+    },
+    "colors": {
+        "color0": "#12181b",
+        "color1": "#499D93",
+        "color2": "#659495",
+        "color3": "#769197",
+        "color4": "#87999B",
+        "color5": "#869DA2",
+        "color6": "#8FA7AA",
+        "color7": "#c3c5c6",
+        "color8": "#5c6a71",
+        "color9": "#499D93",
+        "color10": "#659495",
+        "color11": "#769197",
+        "color12": "#87999B",
+        "color13": "#869DA2",
+        "color14": "#8FA7AA",
+        "color15": "#c3c5c6"
+    }
+}
