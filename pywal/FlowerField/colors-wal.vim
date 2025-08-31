@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/archy/github/wallpapers/FlowerField.png"
+let background = "#201e1e"
+let foreground = "#c7c6c6"
+let cursor     = "#c7c6c6"
+
+" Colors
+let color0  = "#201e1e"
+let color1  = "#5F938E"
+let color2  = "#84A697"
+let color3  = "#ADB091"
+let color4  = "#BCBD95"
+let color5  = "#DFD0AB"
+let color6  = "#EADAB2"
+let color7  = "#c7c6c6"
+let color8  = "#776262"
+let color9  = "#5F938E"
+let color10 = "#84A697"
+let color11 = "#ADB091"
+let color12 = "#BCBD95"
+let color13 = "#DFD0AB"
+let color14 = "#EADAB2"
+let color15 = "#c7c6c6"
