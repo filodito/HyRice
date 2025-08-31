@@ -32,3 +32,5 @@ Oh my zsh > Needed for my kitty config
 ## Credits
 
 Credits to elifouts, the wofi + waybar config are from him
+
+https://github.com/elifouts/Dotfiles
