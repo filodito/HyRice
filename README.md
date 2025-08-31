@@ -26,3 +26,9 @@ Neofetch > For flexing online
 Zsh > Needed for my kitty config
 
 Oh my zsh > Needed for my kitty config
+
+---
+
+## Credits
+
+Credits to elifouts, the wofi + waybar config are from him
