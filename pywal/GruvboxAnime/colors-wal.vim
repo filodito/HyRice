@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/archy/github/wallpapers/GruvboxAnime.png"
+let background = "#121314"
+let foreground = "#c3c4c4"
+let cursor     = "#c3c4c4"
+
+" Colors
+let color0  = "#121314"
+let color1  = "#8F8B75"
+let color2  = "#A0997E"
+let color3  = "#A09B83"
+let color4  = "#B3AB8E"
+let color5  = "#C6BB9A"
+let color6  = "#D5C8A4"
+let color7  = "#c3c4c4"
+let color8  = "#5a646f"
+let color9  = "#8F8B75"
+let color10 = "#A0997E"
+let color11 = "#A09B83"
+let color12 = "#B3AB8E"
+let color13 = "#C6BB9A"
+let color14 = "#D5C8A4"
+let color15 = "#c3c4c4"

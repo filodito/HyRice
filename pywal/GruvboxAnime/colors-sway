@@ -1,0 +1,21 @@
+set $wallpaper /home/archy/github/wallpapers/GruvboxAnime.png
+
+set $background #121314
+set $foreground #c3c4c4
+
+set $color0 #121314
+set $color1 #8F8B75
+set $color2 #A0997E
+set $color3 #A09B83
+set $color4 #B3AB8E
+set $color5 #C6BB9A
+set $color6 #D5C8A4
+set $color7 #c3c4c4
+set $color8 #5a646f
+set $color9 #8F8B75
+set $color10 #A0997E
+set $color11 #A09B83
+set $color12 #B3AB8E
+set $color13 #C6BB9A
+set $color14 #D5C8A4
+set $color15 #c3c4c4
