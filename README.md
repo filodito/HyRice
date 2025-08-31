@@ -7,12 +7,6 @@ It’s lightweight, clean, and built with a focus on aesthetics and usability.
 
 ---
 
-## Disclaimer  
-
-Some configuration files are adapted from other repositories. Credit goes to their respective authors.  
-
----
-
 ## Requirements  
 
 The following packages are required for the rice to work as intended:  
