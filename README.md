@@ -34,3 +34,15 @@ Oh my zsh > Needed for my kitty config
 Credits to elifouts, the wofi + waybar config are from him
 
 https://github.com/elifouts/Dotfiles
+
+---
+
+## Keybinds
+
+Mod + Q - Kill tab
+Mod + Space - Open terminal
+Mod + D - Open wofi
+Mod + E - Open filemanager
+Mod + V - Toggle floating
+Mod + F - Fullscreen
+
