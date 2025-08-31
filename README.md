@@ -17,14 +17,14 @@ Some configuration files are adapted from other repositories. Credit goes to the
 
 The following packages are required for the rice to work as intended:  
 
-swww # Wallpaper daemon
+Swww > Wallpaper daemon
 
-waypaper # Wallpaper picker
+Waypaper > Wallpaper picker
 
-pywal # Dynamic colors for terminal + Waybar
+Pywal > Dynamic colors for terminal + Waybar
 
-waybar # Minimal status bar
+Waybar > Minimal status bar
 
-nerd-fonts # Patched fonts for icons
+Nerd-fonts > Patched fonts for icons
 
-neofetch # System info for flexing
+Neofetch # For flexing online
