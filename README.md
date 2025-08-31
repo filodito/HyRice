@@ -40,9 +40,15 @@ https://github.com/elifouts/Dotfiles
 ## Keybinds
 
 Mod + Q - Kill tab
+
 Mod + Space - Open terminal
+
 Mod + D - Open wofi
+
 Mod + E - Open filemanager
+
 Mod + V - Toggle floating
+
 Mod + F - Fullscreen
+
 
