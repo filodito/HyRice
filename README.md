@@ -22,3 +22,7 @@ Waybar > Minimal status bar
 Nerd-fonts > Patched fonts for icons
 
 Neofetch > For flexing online
+
+Zsh > Needed for my kitty config
+
+Oh my zsh > Needed for my kitty config
